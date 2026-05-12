@@ -13,6 +13,7 @@ Aspiring Penetration Tester with hands-on experience in:
 ## Certifications
 - eJPT
 - TryHackMe Pre Security
+- TryHackMe Cyber Security 101
 
 ## Projects
 ### TryHackMe Writeups
